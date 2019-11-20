@@ -28,5 +28,5 @@ class Dog
       breed = row[2]
       self.new(id:, name:, breed:)
     end
-      
+
 end
